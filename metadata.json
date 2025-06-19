@@ -1,0 +1,5 @@
+{
+  "name": "Indirapuram Quick Bites POS",
+  "description": "A Point of Sale (POS) application for Indirapuram Quick Bites restaurant to manage orders, menu items, and customer data.",
+  "requestFramePermissions": []
+}
